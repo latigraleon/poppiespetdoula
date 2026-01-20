@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Poppies Pet Doula</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      background: #fafafa;
+    }
+    header {
+      text-align: center;
+      padding: 50px 20px 30px;
+      background: #f5f5f5;
+    }
+    header img {
+      max-width: 300px;
+      border-radius: 10px;
+    }
+    header h1 {
+      margin-top: 20px;
+      font-size: 2em;
+      color: #5a3e36;
+    }
+    main {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    h2 {
+      color: #5a3e36;
+      margin-bottom: 10px;
+    }
+    p {
+      margin-bottom: 15px;
+    }
+    footer {
+      text-align: center;
+      padding: 30px 20px;
+      background: #f5f5f5;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="maui.jpg" alt="Damaris and Maui">
+  <h1>Poppies Pet Doula</h1>
+</header>
+
+<main>
+
+<section id="welcome">
+  <h2>Welcome</h2>
+  <p>I am the proud mom of Maui, a two-year-old English Bulldogge who has taught me, every day, how deep and sacred the bond between humans and animals can. Through him—and through the beloved companions who came before—I learned that love with an animal is never small, and that goodbye deserves care.</p>
+  <p>My life is rooted in family and in being of service to those in need. As a military veteran and a first-generation immigrant from El Salvador, I carry a lived understanding of service, devotion, and sacrifice. I believe one of the greatest privileges in life is to walk beside another being during a tender crossing.</p>
+  <p>I walk the path of a healer in honor of Mona, Brutus, and the many beloved companions who await us at the Rainbow Bridge.</p>
+  <p>I guide pets and their families through life’s final days with calm presence, gentle ritual, and heart-centered support. Every goodbye is sacred. I am here to help you honor your companion’s spirit while also caring for and anchoring your own heart.</p>
+  <p><em>You don’t have to know what comes next. You don’t have to do this alone.</em></p>
+</section>
+
+<section id="services">
+  <h2>Ways I Can Support You</h2>
+  <p>Every family and every companion is different. Support is offered with flexibility, care, and respect for your needs, timing, and capacity.</p>
+  <p><strong>Services may include:</strong></p>
+  <ul>
+    <li>Calm presence during a pet’s final days</li>
+    <li>Emotional support for family members</li>
+    <li>Gentle rituals or meaningful moments of honoring</li>
+    <li>Guidance through anticipatory grief</li>
+    <li>Support before, during, or shortly after passing</li>
+  </ul>
+  <p>We begin with a conversation to understand what feels most supportive for you and your companion.</p>
+</section>
+
+<section id="pricing">
+  <h2>Investment</h2>
+  <p>I strive to keep my services accessible while honoring the depth of this work. Pricing is shared transparently during our initial conversation and may vary depending on the type of support, time involved, and your specific circumstances.</p>
+  <p>If financial limitations are present, please feel free to share this. I will always meet you with honesty and care.</p>
+  <p><em>Important note: I am not a veterinarian or medical provider. My role is to offer presence, emotional support, and gentle guidance alongside veterinary care—not to replace it.</em></p>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>If you feel called to reach out, you are welcome to do so at your own pace. You do not need to have the right words. You are welcome exactly as you are.</p>
+  <p>Email: <a href="mailto:welcome@poppiespetdoula.com">welcome@poppiespetdoula.com</a></p>
+</section>
+
+</main>
+
+<footer>
+  &copy; 2026 Poppies Pet Doula
+</footer>
+
+</body>
+</html>
